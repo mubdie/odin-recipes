@@ -1,3 +1,3 @@
 Project: Recipes
 
-I will build a basic recipe website.
+Building of a basic recipe website.
